@@ -1,0 +1,16 @@
+[AddDialog]
+LastMimeType=application/x-compressed-tar
+
+[KFileDialog Settings]
+Height 1050=510
+Recent Files[$e]=/media/2a3362d0-570b-4ba2-8cbf-79428b79e7e1/home/ninja-1/kde4.tar.gz,/media/2a3362d0-570b-4ba2-8cbf-79428b79e7e1/home/ninja-1/kde4.tar.gz
+Width 1680=840
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGXAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+splitterSizes=425,212
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/Helium One.tar.xz
+Name1[$e]=Helium One.tar.xz

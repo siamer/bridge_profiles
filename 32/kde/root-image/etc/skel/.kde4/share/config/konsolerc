@@ -1,0 +1,11 @@
+[Desktop Entry]
+DefaultProfile=Shell.profile
+
+[Favorite Profiles]
+Favorites=/usr/share/apps/konsole/Shell.profile
+
+[MainWindow]
+Height 1050=582
+State=AAAA/wAAAAD9AAAAAAAAAkMAAAIyAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled
+Width 1680=579

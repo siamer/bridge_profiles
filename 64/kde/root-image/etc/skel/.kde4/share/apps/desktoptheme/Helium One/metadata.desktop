@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Helium One
+Comment=very light theme for plasma
+Comment[es]=tema muy ligero para plasma
+comment[fr]=très versez le thème du plasma léger
+comment[it]=tema molto leggero per il plasma
+X-KDE-PluginInfo-Author=Mcder3
+X-KDE-PluginInfo-Email=mcder3[at]gmail[dot]com
+X-KDE-PluginInfo-Name=Helium
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=http://koresource.blogspot.com/
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
+
+[Settings]
+UseNativeWidgetStyle=false

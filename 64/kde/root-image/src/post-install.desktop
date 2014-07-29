@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Post-Install
+Comment=Manage your network connections
+Exec=mt-post
+Terminal=true
+Type=Application

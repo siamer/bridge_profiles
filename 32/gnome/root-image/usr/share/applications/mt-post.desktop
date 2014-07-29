@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=0.9.4
+Type=Application
+Name=Post-Install Script
+Comment=
+Exec=mt-post
+StartupNotify=false
+Terminal=true
+Hidden=false
+

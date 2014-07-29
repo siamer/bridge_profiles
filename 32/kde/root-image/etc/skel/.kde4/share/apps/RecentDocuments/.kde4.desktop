@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=inode-directory
+Name=.kde4
+Type=Link
+URL[$e]=file://$HOME/.kde4
+X-KDE-LastOpenedWith=

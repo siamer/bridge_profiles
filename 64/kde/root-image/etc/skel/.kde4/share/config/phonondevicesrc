@@ -1,0 +1,142 @@
+[AudioDevice_/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:01.0/0000:01:00.1/sound/card1/pcmC1D3p:playback]
+cardName=HD-Audio Generic (HDMI 0)
+deleted=true
+deviceNumber=3
+hotpluggable=false
+iconName=audio-card
+index=-3
+initialPreference=33
+isAdvanced=true
+
+[AudioDevice_/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:05.0/sound/card0/pcmC0D0c:capture]
+cardName=Intel 82801AA-ICH (Intel 82801AA-ICH)
+deleted=false
+deviceNumber=0
+hotpluggable=false
+iconName=audio-card
+index=-12
+initialPreference=36
+isAdvanced=false
+
+[AudioDevice_/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:05.0/sound/card0/pcmC0D0p:playback]
+cardName=Intel 82801AA-ICH (Intel 82801AA-ICH)
+deleted=false
+deviceNumber=0
+hotpluggable=false
+iconName=audio-card
+index=-10
+initialPreference=36
+isAdvanced=false
+
+[AudioDevice_/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:05.0/sound/card0/pcmC0D1c:capture]
+cardName=Intel 82801AA-ICH (Intel 82801AA-ICH - MIC ADC)
+deleted=false
+deviceNumber=1
+hotpluggable=false
+iconName=audio-card
+index=-13
+initialPreference=35
+isAdvanced=true
+
+[AudioDevice_/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:1b.0/sound/card0/pcmC0D0c:capture]
+cardName=HDA Intel (ALC888 Analog)
+deleted=true
+deviceNumber=0
+hotpluggable=false
+iconName=audio-card
+index=-7
+initialPreference=36
+isAdvanced=false
+
+[AudioDevice_/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:1b.0/sound/card0/pcmC0D0p:playback]
+cardName=HDA Intel (ALC888 Analog)
+deleted=true
+deviceNumber=0
+hotpluggable=false
+iconName=audio-card
+index=-1
+initialPreference=36
+isAdvanced=false
+
+[AudioDevice_/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:1b.0/sound/card0/pcmC0D1p:playback]
+cardName=HDA Intel (ALC888 Digital)
+deleted=true
+deviceNumber=1
+hotpluggable=false
+iconName=audio-card
+index=-2
+initialPreference=35
+isAdvanced=true
+
+[AudioDevice_/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:1b.0/sound/card0/pcmC0D2c:capture]
+cardName=HDA Intel (ALC888 Analog) #2
+deleted=true
+deviceNumber=2
+hotpluggable=false
+iconName=audio-card
+index=-8
+initialPreference=34
+isAdvanced=true
+
+[AudioDevice_HD-Audio Generic, HDMI 0\nHDMI Audio Output_playback]
+cardName=HD-Audio Generic, HDMI 0 (HDMI Audio Output)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-4
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel, ALC888 Analog\nDefault Audio Device_capture]
+cardName=HDA Intel, ALC888 Analog (Default Audio Device)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-9
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel, ALC888 Analog\nDefault Audio Device_playback]
+cardName=HDA Intel, ALC888 Analog (Default Audio Device)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-5
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel, ALC888 Digital\nIEC958 (S/PDIF) Digital Audio Output_playback]
+cardName=HDA Intel, ALC888 Digital (IEC958 (S/PDIF) Digital Audio Output)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-6
+initialPreference=30
+isAdvanced=true
+
+[AudioDevice_Intel 82801AA-ICH, Intel 82801AA-ICH\nDefault Audio Device_capture]
+cardName=Intel 82801AA-ICH, Intel 82801AA-ICH (Default Audio Device)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-14
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_Intel 82801AA-ICH, Intel 82801AA-ICH\nDefault Audio Device_playback]
+cardName=Intel 82801AA-ICH, Intel 82801AA-ICH (Default Audio Device)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-11
+initialPreference=30
+isAdvanced=false
+
+[Globals]
+nextIndex=15

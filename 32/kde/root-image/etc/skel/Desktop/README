@@ -1,0 +1,29 @@
+Important! Run "sudo pacman -Syy" before trying to use pacman. 
+It's a good idea to run "pacaur -Syu" to update packages including AUR.
+
+To install codecs: "sudo pacman -S gstreamer0.10-plugins"
+To install Flash: "sudo pacman -S flashplugin"
+To install official Java runtime: "pacaur -S jre"
+
+You may have to restart your applications or computer.
+
+Languages other than English are now handled automatically through
+the installer.
+
+Proprietary GPU drivers:
+
+To install the current NVIDIA proprietary driver:
+
+sudo pacman -S nvidia nvidia-utils
+Reboot to allow the automatic configuration by the package
+sudo nvidia-xconfig
+Reboot a last time to restart the X server with the new settings
+
+To install the current ATI/AMD proprietary driver:
+
+pacaur -S catalyst-total # If you're using a pre-5xxx card, use catalyst-total-hd234k instead
+sudo aticonfig --initial
+Reboot to restart the X server with the new settings
+
+Post any questions on http://millertechnologies.net/forum
+Do not post questions about Bridge on the official Arch forums

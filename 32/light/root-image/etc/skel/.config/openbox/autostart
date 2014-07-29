@@ -1,0 +1,9 @@
+(sleep 3 && /usr/bin/nm-applet --sm-disable) &
+bmpanel2 --theme=noir &
+volumeicon -b &
+nitrogen --restore &
+#xcompmgr -c &
+#xbacklight -set 100 &
+#/usr/bin/synclient TouchpadOff=1 &
+batti &
+fbxkb &

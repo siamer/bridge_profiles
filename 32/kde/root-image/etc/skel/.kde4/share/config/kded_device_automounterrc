@@ -1,0 +1,59 @@
+[Devices][/org/freedesktop/UDisks/devices/dm_2d0]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=6.2 GiB Hard Drive
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks/devices/loop100]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=856.7 MiB Hard Drive
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks/devices/loop101]
+Icon=drive-harddisk
+LastNameSeen=6.2 GiB Hard Drive
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks/devices/loop102]
+Icon=drive-harddisk
+LastNameSeen=6.2 GiB Hard Drive
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks/devices/sda1]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=91.8 GiB Hard Drive
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks/devices/sda2]
+Icon=drive-harddisk
+LastNameSeen=7.5 GiB Hard Drive
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks/devices/sda3]
+Icon=drive-harddisk
+LastNameSeen=OS X
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks/devices/sda4]
+Icon=drive-harddisk
+LastNameSeen=337.1 GiB Hard Drive
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks/devices/sdb]
+Icon=drive-removable-media-usb
+LastNameSeen=Kingston DataTraveler 112
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks/devices/sdb1]
+EverMounted=true
+Icon=drive-removable-media-usb
+LastNameSeen=BRIDGE
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks/devices/sr0:media]
+EverMounted=true
+Icon=media-optical-data
+LastNameSeen=BRIDGE
+LastSeenMounted=true

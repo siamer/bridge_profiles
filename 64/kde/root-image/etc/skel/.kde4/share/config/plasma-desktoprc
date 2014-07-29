@@ -1,0 +1,31 @@
+[BackgroundConfigDialog]
+Height 1050=719
+Height 768=711
+Width 1024=649
+Width 1680=649
+
+[KPropertiesDialog]
+Height 768=356
+Width 1024=384
+
+[PlasmaViews][1]
+panelVisibility=0
+
+[PlasmaViews][1][Horizontal1680]
+offset=0
+
+[PlasmaViews][1][Sizes]
+lastsize=1024
+
+[PlasmaViews][1][Sizes][Horizontal1680]
+max=-1,-1
+min=-1,-1
+offset=0
+size=682,512
+
+[Updates]
+performed=/usr/share/apps/plasma-desktop/updates/systray-to-notifications-widget.js,/usr/share/apps/plasma-desktop/updates/addShowActivitiesManagerPlasmoid.js
+
+[ViewIds]
+1=1
+8=2

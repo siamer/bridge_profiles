@@ -1,0 +1,4 @@
+[Command]
+FileManager=pcmanfm %s
+Terminal=terminator
+Logout=lxde-logout

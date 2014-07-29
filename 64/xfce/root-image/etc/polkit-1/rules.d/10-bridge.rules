@@ -1,0 +1,41 @@
+polkit.addRule(function(action, subject) {
+		if (action.id.indexOf("org.freedesktop.udisks2.") == 0 && subject.isInGroup("storage")) {
+			return polkit.Result.YES;
+		}
+	}
+);
+
+polkit.addRule(function(action, subject) {
+		if (action.id.indexOf("org.freedesktop.upower.") == 0 && subject.isInGroup("power")) {
+			return polkit.Result.YES;
+		}
+	}
+);
+
+polkit.addRule(function(action, subject) {
+		if (action.id.indexOf("org.freedesktop.NetworkManager.") == 0 && subject.isInGroup("network")) {
+			return polkit.Result.YES;
+		}
+	}
+);
+
+polkit.addRule(function(action, subject) {
+		if (action.id.indexOf("org.freedesktop.login1.") == 0 && subject.isInGroup("power")) {
+			return polkit.Result.YES;
+		}
+	}
+);
+
+polkit.addRule(function(action, subject) {
+                if (action.id.indexOf("org.freedesktop.DBus.") == 0 && subject.isInGroup("network")) {
+                        return polkit.Result.YES;
+                }
+        }
+);
+
+polkit.addRule(function(action, subject) {
+    if (action.id == "org.freedesktop.udisks2.filesystem-mount-system" &&
+        subject.isInGroup("storage")) {
+        return polkit.Result.YES;
+    }
+});
