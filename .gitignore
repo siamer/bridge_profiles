@@ -1,0 +1,8 @@
+64/xfce/root-image/etc/polkit-1/rules.d/10-bridge.rules
+64/kde/root-image/etc/polkit-1/rules.d/10-bridge.rules
+64/gnome/root-image/etc/polkit-1/rules.d/10-bridge.rules
+64/light/root-image/etc/polkit-1/rules.d/10-bridge.rules
+32/xfce/root-image/etc/polkit-1/rules.d/10-bridge.rules
+32/kde/root-image/etc/polkit-1/rules.d/10-bridge.rules
+32/gnome/root-image/etc/polkit-1/rules.d/10-bridge.rules
+32/light/root-image/etc/polkit-1/rules.d/10-bridge.rules
