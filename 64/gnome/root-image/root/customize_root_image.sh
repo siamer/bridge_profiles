@@ -11,6 +11,9 @@ sudo ln -s /etc/fonts/conf.avail/11-lcdfilter-default.conf /etc/fonts/conf.d/58-
 usermod -s /bin/bash root
 cp -aT /etc/skel/ /root/
 
+# set root password 
+echo "root:root" | chpasswd
+
 useradd -m -k /etc/skel -p "" -g users -G "adm,audio,floppy,log,network,rfkill,scanner,storage,optical,power,wheel" -s /bin/bash live
 
 chmod 440 /etc/sudoers
